@@ -1,11 +1,12 @@
 <div align="center">
 
 #### Machine Learning Explained (badly)
-
+Hi there, I'm Sanjay, and I love machine learning.  
+Let me give you a glimpse of what machine learning is...
 </div>
 
 <div align="center">
-<table><tr><td>
+<table><tr><td> 
 
 Machine Learning is when you show the model a spaghetti and ask,  
 **“What’s a cat?”**  
