@@ -1,10 +1,16 @@
 <div align="center">
+
+#### Machine Learning Explained (badly)
+
+</div>
+
+<div align="center">
 <table><tr><td>
 
-Machine Learning is when you show it spaghetti and ask,  
+Machine Learning is when you show the model a spaghetti and ask,  
 **“What’s a cat?”**  
 It replies: **“Spaghetti… is cat.”**  
-The next day, it thinks your uncle is a watermelon.
+The next day, it thinks your uncle is a watermelon.  
 we call it... **progress**
 
 </td></tr></table>
