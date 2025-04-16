@@ -4,7 +4,8 @@
 Machine Learning is when you show it spaghetti and ask,  
 **“What’s a cat?”**  
 It replies: **“Spaghetti… is cat.”**  
-The next, it thinks your uncle is a watermelon.
+The next day, it thinks your uncle is a watermelon.
+we call it... **progress**
 
 </td></tr></table>
 </div>
