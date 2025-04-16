@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-# Machine Learning: The Forbidden Art
-
 Machine Learning is when you summon a data demon from the Spreadsheet Realm, feed it 1,000 pictures of spaghetti, and whisper:
 
 > “Tell me what cats look like.”
