@@ -19,8 +19,7 @@ we call it... **progress**
 
 <div align="center">
 
-#### portal to my brain
 
-[`if you wanna know me more`](https://oasis-range-da1.notion.site/Portfolio-19e6898160eb80dd97bdec52034c66be)
+[`wanna know me more!!`](https://oasis-range-da1.notion.site/Portfolio-19e6898160eb80dd97bdec52034c66be)
 
 </div>
