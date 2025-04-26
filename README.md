@@ -14,7 +14,7 @@ about_me:
     university: "Sri Venkateswara University"
     cgpa: "8.0/10.0"
 
-past_experiences:
+experiences:
   - role: "Machine Learning Intern", "Aegion Dynamic Solutions"
   - role: "Research Intern", "Indian Institute of Technology, Indore"
 
