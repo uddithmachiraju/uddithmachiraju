@@ -52,7 +52,7 @@ currently_learning:
   <a href="https://www.kaggle.com/uddithmachiraju" style="text-decoration: none; padding: 10px 20px; background-color: #20BEFF; color: white; border-radius: 5px; margin: 5px; font-size: 16px;">
     <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/>
   </a>
-  <a href="https://medium.com/@uddithmachiraju" style="text-decoration: none; padding: 10px 20px; background-color: #00AB6C; color: white; border-radius: 5px; margin: 5px; font-size: 16px;">
+  <a href="https://medium.com/@machirajusanjayuddithraju" style="text-decoration: none; padding: 10px 20px; background-color: #00AB6C; color: white; border-radius: 5px; margin: 5px; font-size: 16px;">
     <img src="https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"/>
   </a>
 </p>
