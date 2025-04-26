@@ -38,23 +38,27 @@ currently_learning:
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
 </p>
 
-<h3>Contact:</h3>
+<h3 align="center">Contact:</h3>
+
 <p align="center">
-  <a href="https://github.com/uddithmachiraju" style="text-decoration: none; padding: 10px 20px; background-color: #24292f; color: white; border-radius: 5px; margin: 5px; font-size: 16px;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub"/>
-  </a>
-  <a href="mailto:uddithmachiraju@gmail.com" style="text-decoration: none; padding: 10px 20px; background-color: #d14836; color: white; border-radius: 5px; margin: 5px; font-size: 16px;">
-    <img src="https://img.shields.io/badge/-Email-FF6F00?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/uddithmachiraju/" style="text-decoration: none; padding: 10px 20px; background-color: #0A66C2; color: white; border-radius: 5px; margin: 5px; font-size: 16px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.kaggle.com/uddithmachiraju" style="text-decoration: none; padding: 10px 20px; background-color: #20BEFF; color: white; border-radius: 5px; margin: 5px; font-size: 16px;">
-    <img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge" alt="Kaggle"/>
-  </a>
-  <a href="https://medium.com/@machirajusanjayuddithraju" style="text-decoration: none; padding: 10px 20px; background-color: #00AB6C; color: white; border-radius: 5px; margin: 5px; font-size: 16px;">
-    <img src="https://img.shields.io/badge/-Medium-00AB6C?logo=medium&logoColor=white&style=for-the-badge" alt="Medium"/>
+  <a href="https://github.com/uddithmachiraju" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:uddithmachiraju@gmail.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/uddithmachiraju/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/uddithmachiraju" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="30" height="30"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://medium.com/@machirajusanjayuddithraju" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="30" height="30"/>
   </a>
 </p>
+
+
+
 
  </p> </td> </tr> </table>
