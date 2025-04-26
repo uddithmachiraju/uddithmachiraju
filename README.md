@@ -1,26 +1,29 @@
-<h1 align="center">Hi 👋, I'm M. Sanjay Uddith Raju</h1>
-<h3 align="center">Mechanical Engineer turned into ML Engineer</h3>
+# ⚡ Hi, I'm M. Sanjay Uddith Raju 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=uddithmachiraju&label=Profile%20views&color=0e75b6&style=flat" alt="uddithmachiraju" /> </p>
+<table>
+<tr>
+<td width="55%">
 
-- 🔭 I’m currently working on [customer feedback analysis pipeline](https://github.com/uddithmachiraju/customer-feedback-analysis-pipeline)
+```yaml
+about_me:
+  name: "M. Sanjay Uddith Raju"
+  bio: "Mechanical Engineer turned into ML Engineer"
+  education:
+    degree: "B.Tech in Mechanical Engineering"
+    university: "Sri Venkateswara University"
+    cgpa: "8.0/10.0"
 
-- 🌱 I’m currently learning **Kubernetes, AWS, Terraform**
+past_experiences:
+  - role: "Machine Learning Intern", "Aegion Dynamic Solutions"
+  - role: "Research Intern", "Indian Institute of Technology, Indore"
 
-- 👨‍💻 All of my projects are available at [https://oasis-range-da1.notion.site/Portfolio-19e6898160eb80dd97bdec52034c66be?pvs=74](https://oasis-range-da1.notion.site/Portfolio-19e6898160eb80dd97bdec52034c66be?pvs=74)
+currently_learning:
+  - "Terraform"
+  - "Flyte"
 
-- 📫 How to reach me **uddithmachiraju@gmail.com**
-
-- ⚡ Fun fact **Machine Learning is when you show the model a spaghetti and ask, “What’s a cat?” It replies: “Spaghetti… is cat.” The next day, it thinks your uncle is a watermelon. we call it... progress**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/uddithmachiraju/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="uddithmachiraju/" height="30" width="40" /></a>
-<a href="https://kaggle.com/uddithmachiraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="uddithmachiraju" height="30" width="40" /></a>
-<a href="https://medium.com/@machirajusanjayuddithraju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@machirajusanjayuddithraju" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=uddithmachiraju&show_icons=true&locale=en&layout=compact" alt="uddithmachiraju" /></p>
+contact:
+  github: "https://github.com/uddithmachiraju"
+  email: "uddithmachiraju@gmail.com"
+```
+</td> <td width="45%"> <h3>⚡ I've worked with:</h3> <p align="center"> <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" /> <img src="https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" /> </p> </td> </tr> </table>
