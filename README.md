@@ -12,11 +12,11 @@ about_me:
   education:
     degree: "B.Tech in Mechanical Engineering"
     university: "Sri Venkateswara University"
-    cgpa: "8.0/10.0"
+    cgpa: "7.9/10.0"
 
 experiences:
   - role: "Machine Learning Intern", "Aegion Dynamic Solutions"
-  - role: "Research Intern", "Indian Institute of Technology, Indore"
+  - role: "ML Research Intern", "Indian Institute of Technology, Indore"
 
 currently_learning:
   - "Terraform"
