@@ -12,15 +12,22 @@ about_me:
   education:
     degree: "B.Tech in Mechanical Engineering"
     university: "Sri Venkateswara University"
-    cgpa: "7.9/10.0"
+    cgpa: "8.0/10.0"
 
 experiences:
-  - role: "Machine Learning Intern", "Aegion Dynamic Solutions"
-  - role: "ML Research Intern", "Indian Institute of Technology, Indore"
+  - role: "Artificial Intelligence Intern"
+    company: "Cohyve"
+  - role: "Machine Learning Associate"
+    company: "Aegion Dynamic Solutions"
+  - role: "Python Developer"
+    company: "KanaQ Innovations"
+  - role: "ML Research Intern"
+    company: "Indian Institute of Technology, Indore"
 
 currently_learning:
   - "Terraform"
   - "Flyte"
+  - "AWS" 
 ```
 </td> <td width="45%"> <h3>⚡ I've worked with:</h3> <p align="center">
 <p align="center">
