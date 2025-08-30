@@ -1,71 +1,9 @@
-# ⚡ Hi, I'm M. Sanjay Uddith Raju 
----
+# M. Sanjay Uddith Raju - Skills Radar
 
-<table>
-<tr>
-<td width="55%">
+| Overall Skills | ML Frameworks |
+|----------------|---------------|
+| ![Overall Skills Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27MLOps%27%2C%27Research%27%2C%27API%20Dev%27%2C%27Cloud%20Deploy%27%2C%27Optimization%27%2C%27Data%20Eng%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Overall%20Experience%27%2Cdata%3A%5B66.25%2C72.5%2C65%2C70%2C66.25%2C73.75%5D%2CbackgroundColor%3A%27rgba%2834%2C197%2C94%2C0.2%29%27%2CborderColor%3A%27rgba%2834%2C197%2C94%2C1%29%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2CsuggestedMax%3A100%7D%7D%7D%7D) | ![ML Frameworks Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27PyTorch%27%2C%27TensorFlow%27%2C%27Scikit-learn%27%2C%27MLflow%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27ML%20Frameworks%27%2Cdata%3A%5B85%2C75%2C90%2C80%5D%2CbackgroundColor%3A%27rgba%28255%2C99%2C132%2C0.2%29%27%2CborderColor%3A%27rgba%28255%2C99%2C132%2C1%29%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2CsuggestedMax%3A100%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay:false%7D%7D%7D%7D) |
 
-```yaml
-about_me:
-  name: "M. Sanjay Uddith Raju"
-  bio: "Mechanical Engineer turned into ML Engineer"
-  education:
-    degree: "B.Tech in Mechanical Engineering"
-    university: "Sri Venkateswara University"
-    cgpa: "8.0/10.0"
-
-experiences:
-  - role: "Artificial Intelligence Intern"
-    company: "Cohyve"
-  - role: "Machine Learning Associate"
-    company: "Aegion Dynamic Solutions"
-  - role: "Python Developer"
-    company: "KanaQ Innovations"
-  - role: "ML Research Intern"
-    company: "Indian Institute of Technology, Indore"
-
-currently_learning:
-  - "Terraform"
-  - "Flyte"
-  - "AWS" 
-```
-</td> <td width="45%"> <h3>⚡ I've worked with:</h3> <p align="center">
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-SQL-003B57?logo=postgresql&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-</p>
-
-<h3 align="center">Contact:</h3>
-
-<p align="center">
-  <a href="https://github.com/uddithmachiraju" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:uddithmachiraju@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" height="30"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/uddithmachiraju/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/uddithmachiraju" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png" alt="Kaggle" width="30" height="30"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://medium.com/@machirajusanjayuddithraju" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" alt="Medium" width="30" height="30"/>
-  </a>
-</p>
-
-
-
-
- </p> </td> </tr> </table>
+| Cloud & DevOps | Programming |
+|----------------|-------------|
+| ![Cloud & DevOps Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27AWS%27%2C%27Docker%27%2C%27Kubernetes%27%2C%27Terraform%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Cloud%20%26%20DevOps%27%2Cdata%3A%5B85%2C90%2C75%2C60%5D%2CbackgroundColor%3A%27rgba%2854%2C162%2C235%2C0.2%29%27%2CborderColor%3A%27rgba%2854%2C162%2C235%2C1%29%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2CsuggestedMax%3A100%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay:false%7D%7D%7D%7D) | ![Programming Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27SQL%27%2C%27JavaScript%27%2C%27Java%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Programming%27%2Cdata%3A%5B95%2C85%2C60%2C50%5D%2CbackgroundColor%3A%27rgba%28255%2C206%2C86%2C0.2%29%27%2CborderColor%3A%27rgba%28255%2C206%2C86%2C1%29%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2CsuggestedMax%3A100%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay:false%7D%7D%7D%7D) |
