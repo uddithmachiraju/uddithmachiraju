@@ -1,9 +1,37 @@
-# M. Sanjay Uddith Raju - Skills Radar
+```python
+# Sanjay Uddith Raju | AI, MLOps, Cloud
 
-| Overall Skills | ML Frameworks |
-|----------------|---------------|
-| ![Overall Skills Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27MLOps%27%2C%27Research%27%2C%27API%20Dev%27%2C%27Cloud%20Deploy%27%2C%27Optimization%27%2C%27Data%20Eng%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Overall%20Experience%27%2Cdata%3A%5B66.25%2C72.5%2C65%2C70%2C66.25%2C73.75%5D%2CbackgroundColor%3A%27rgba%2834%2C197%2C94%2C0.2%29%27%2CborderColor%3A%27rgba%2834%2C197%2C94%2C1%29%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2CsuggestedMax%3A100%7D%7D%7D%7D) | ![ML Frameworks Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27PyTorch%27%2C%27TensorFlow%27%2C%27Scikit-learn%27%2C%27MLflow%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27ML%20Frameworks%27%2Cdata%3A%5B85%2C75%2C90%2C80%5D%2CbackgroundColor%3A%27rgba%28255%2C99%2C132%2C0.2%29%27%2CborderColor%3A%27rgba%28255%2C99%2C132%2C1%29%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2CsuggestedMax%3A100%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay:false%7D%7D%7D%7D) |
+class SanjayUddithRaju:
+    def __init__(self):
+        self.name = "M. Sanjay Uddith Raju"
+        self.education = "B.Tech Mechanical Engineering @ SV University (CGPA: 8.0/10)"
+        self.roles = [
+            "AI Intern @ Cohyve",
+            "ML Intern @ Aegion Dynamic Solutions",
+            "Research Intern @ IIT Indore"
+        ]
+        self.skills = {
+            "Languages": ["Python", "Java", "C/C++", "SQL", "R", "Shell"],
+            "Frameworks": ["PyTorch", "TensorFlow", "Scikit-learn", "Flask", "FastAPI", "HuggingFace"],
+            "DevOps": ["Docker", "Kubernetes", "Terraform", "Jenkins", "MLflow"],
+            "Cloud": ["AWS", "Azure AI/ML"]
+        }
+        self.projects = {
+            "AWS Serverless Pipeline": "Image processing with Lambda + S3 + SNS",
+            "ZYRO": "FastAPI backend orchestrator (YAML → API → Docker/K8s)",
+            "Agentic RAG Chatbot": "Enterprise multi-agent chatbot with Gemini + ChromaDB"
+        }
 
-| Cloud & DevOps | Programming |
-|----------------|-------------|
-| ![Cloud & DevOps Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27AWS%27%2C%27Docker%27%2C%27Kubernetes%27%2C%27Terraform%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Cloud%20%26%20DevOps%27%2Cdata%3A%5B85%2C90%2C75%2C60%5D%2CbackgroundColor%3A%27rgba%2854%2C162%2C235%2C0.2%29%27%2CborderColor%3A%27rgba%2854%2C162%2C235%2C1%29%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2CsuggestedMax%3A100%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay:false%7D%7D%7D%7D) | ![Programming Radar](https://quickchart.io/chart?c=%7Btype%3A%27radar%27%2Cdata%3A%7Blabels%3A%5B%27Python%27%2C%27SQL%27%2C%27JavaScript%27%2C%27Java%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Programming%27%2Cdata%3A%5B95%2C85%2C60%2C50%5D%2CbackgroundColor%3A%27rgba%28255%2C206%2C86%2C0.2%29%27%2CborderColor%3A%27rgba%28255%2C206%2C86%2C1%29%27%2CborderWidth%3A2%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Br%3A%7BbeginAtZero%3Atrue%2CsuggestedMax%3A100%7D%7D%2Cplugins%3A%7Blegend%3A%7Bdisplay:false%7D%7D%7D%7D) |
+    def now(self):
+        return {
+            "AI Intern": "Fine-tuning LLaMA-3-8B, building RAG backends",
+            "ML Intern": "Automating AWS Lambda + Terraform infra",
+            "Research": "GANs for adversarial malware detection"
+        }
+
+    def current_focus(self):
+        return [
+            "Fine-tuning LLaMA-3-8B",
+            "Building context-aware RAG backends",
+            "Automating AWS infra with Terraform"
+        ]
