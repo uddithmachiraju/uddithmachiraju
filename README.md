@@ -1,7 +1,7 @@
 ```python
 # Sanjay Uddith Raju | AI, MLOps, Cloud
 
-class SanjayUddithRaju:
+class SanjayUddithRaju: 
     def __init__(self):
         self.name = "M. Sanjay Uddith Raju"
         self.education = "B.Tech Mechanical Engineering @ SV University (CGPA: 8.0/10)"
